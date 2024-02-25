@@ -6,3 +6,6 @@ build/
 
 # Ignore main.spec file
 main.spec
+
+# Ignore snippet.html file
+snippet.html
