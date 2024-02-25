@@ -1,0 +1,8 @@
+# Ignore dist folder
+dist/
+
+# Ignore build folder
+build/
+
+# Ignore main.spec file
+main.spec
