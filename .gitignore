@@ -9,3 +9,6 @@ main.spec
 
 # Ignore snippet.html file
 snippet.html
+
+# Ignore main2.spec file
+main2.spec
